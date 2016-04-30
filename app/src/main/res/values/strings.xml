@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PuppyApp</string>
+    <string name="app_hola">¡Hola Mundo!</string>
+    <string name="app_boton_inicio">Inicio</string>
+</resources>
